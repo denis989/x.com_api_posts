@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.env
+venv/
+local_logs/
+downloaded_data/
+*.sqlite3
+instance/
